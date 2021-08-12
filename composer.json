@@ -22,9 +22,7 @@
         "yiisoft/yii2-redis": "^2.0",
         "workerman/redis-queue": "^1.0",
         "workerman/crontab": "^1.0",
-        "workerman/http-client": "^0.1.7",
-        "gateio/gateapi-php": "^5.21",
-        "sonata-project/google-authenticator": "^2.3"
+        "workerman/http-client": "^0.1.7"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.1.0",
